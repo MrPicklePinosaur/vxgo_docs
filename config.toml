@@ -2,3 +2,6 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'VxGo Docs'
 theme = 'book'
+
+[params]
+BookMenuBundle = '/menu'
